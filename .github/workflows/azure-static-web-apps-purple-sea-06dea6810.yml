@@ -23,6 +23,8 @@ jobs:
         run: |
           git config --global url."https://".insteadOf git://
           git config --global url."https://github.com/".insteadOf "git@github.com:"
+      - name: Clear npm cache
+        run: npm cache clean --force
       - name: Install Dependencies
         run: npm install --legacy-peer-deps
       - name: Build And Deploy
