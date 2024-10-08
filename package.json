@@ -81,7 +81,7 @@
   },
   "resolutions": {
     "js-xlsx": "https://github.com/securedeveloper/js-xlsx.git"
-  }
+  },
   "browserslist": {
     "production": [
       ">0.2%",
