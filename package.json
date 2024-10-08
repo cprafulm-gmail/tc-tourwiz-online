@@ -47,7 +47,7 @@
     "react-helmet": "^6.1.0",
     "react-hotjar": "^2.2.1",
     "react-id-swiper": "^2.4.0",
-    "react-intl-tel-input": "^8.2.0",
+    "react-intl-tel-input": "^8.0.4",
     "react-moment": "^0.9.6",
     "react-otp-input": "^2.3.0",
     "react-password-strength-bar": "^0.3.2",
