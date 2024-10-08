@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+    "releaseDate": "16-06-2023",
+    "releaseNote": [
+      {
+        "title": "Quick Proposal Implementation",
+        "notes": [
+          "Users can now send quick proposals to their customers, along with the ability to upload documents."
+        ],
+        "featuresType": "new"
+      },
+      {
+        "title": "Support24 Implementation",
+        "notes": [
+          "Users can access TourWiz Module-wise Help, Release Notes, and Support details directly from the TourWiz login."
+        ],
+        "featuresType": "new"
+      },
+      {
+        "title": "Menu Items Re-arrangement",
+        "notes": [
+          "The menu items have been re-arranged for improved navigation and user experience."
+        ],
+        "featuresType": "new"
+      },
+      {
+        "title": "Inquiry Creation Navigation",
+        "notes": [
+          "After creating an inquiry, the system will now automatically navigate the user to the list page, enhancing the workflow and reducing manual navigation steps."
+        ],
+        "featuresType": ""
+      },
+      {
+        "title": "Report Changes",
+        "notes": [
+          "Calculation of pending and due amounts has been implemented after cancellation, providing more accurate financial information."
+        ],
+        "featuresType": ""
+      },
+      {
+        "title": "Website Banner Image Text",
+        "notes": [
+          "The issue causing incorrect display of text in the Website Banner Image when users share a package, itinerary, or proposal has been resolved."
+        ],
+        "featuresType": ""
+      }
+    ],
+    "featuresType": ""
+  },
+  {
+    "id": 1,
+    "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+    "releaseDate": "12-05-2023",
+    "releaseNote": [
+      {
+        "title": "Comman changes",
+        "notes": [
+          "Remove Hashtag from URL on all screens",
+          "Change label for Private cars to Rent a Car and add field as All days",
+          "Session Management - Need to manage session after some time",
+          "Send Email from Invoice/Voucher page with multiple recipients from sendgrid",
+          "Login by mobile or email. for end customer of agent",
+          "Activity/Custom Voucher placeholder displayed",
+          "Add Agent details in Package/Itinerary/Quotation"
+        ],
+        "featuresType": ""
+      },
+      {
+        "title": "Invoice changes",
+        "notes": [
+          "My Bookings - Invoice structure updated as per Manual Invoice (except Bank details)"
+        ],
+        "featuresType": ""
+      },
+      {
+        "title": "Itinerary/Quotation changes",
+        "notes": [
+          "Scroll issue in calendar of 'Quotation page' for laptop user",
+          "Preview/Download/Print Itinerary/Quotation - Days are missing",
+          "Quotation - Calendar Problem - Calendar scroll issue",
+          "Preview/Download/Print Itinerary/Quotation - Terms & Condition needs to be displayed"
+        ],
+        "featuresType": ""
+      },
+      {
+        "title": "Pacakages changes",
+        "notes": [
+          "Implemented Filters for Package list",
+          "Add Customer with Mobile number unique"
+        ],
+        "featuresType": ""
+      },
+      {
+        "title": "Subscription changes",
+        "notes": [
+          "Integrate RazorPay in Subscription (Disable - Due to Live credentials not available)",
+          "Subscription Auto Renew"
+        ],
+        "featuresType": ""
+      },
+      {
+        "title": "Customer changes",
+        "notes": [
+          "only mobile number and email address uniqueness",
+          "Add Customer with Mobile number unique"
+        ]
+      }
+    ],
+    "featuresType": ""
+  },
+  {
+    "id": 2,
+    "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+    "releaseDate": "07-05-2023",
+    "releaseNote": [
+      {
+        "title": "Comman changes",
+        "notes": [
+          "Customer Selection with Auto complete section.",
+          "Customer List rendering performance improved.",
+          "New Customer selection section (including add new customer on same screen).",
+          "Import Supplier functionality implementation.",
+          "Implemented Hamberger menu after login for the Menu.",
+          "Filter - For Between Dates option - Start Date and End Date selection",
+          "Social Media implementation in Profile and Communication channels"
+        ],
+        "featuresType": ""
+      },
+      {
+        "title": "Itinerary/Quotation changes",
+        "notes": [
+          "Flight Stops information added in Email preview"
+        ],
+        "featuresType": ""
+      },
+      {
+        "title": "Voucher changes",
+        "notes": [
+          "Default image should be removed and No Image Found should be displayed.",
+          "When we put Terms & Conditions in Voucher, it doesn't come one below other appears in straight line."
+        ],
+        "featuresType": ""
+      },
+      {
+        "title": "Marketplace Page changes",
+        "notes": [
+          "Add all categories in the page and clicking on category should show all the packages of that category."
+        ],
+        "featuresType": ""
+      },
+      {
+        "title": "Pacakages changes",
+        "notes": [
+          "Added new Hotel Details tab in the Package Add-Edit page.",
+          "Show Pax Count on Preview page"
+        ]
+      }
+    ]
+  }
+]

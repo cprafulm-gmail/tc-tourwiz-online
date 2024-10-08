@@ -1,0 +1,62 @@
+[
+	{
+		"advetiseID": 8,
+		"detailsUrl": "/partner-offers",
+		"advertiseName": "Hotel Offer",
+		"advertiseDescription": "Get 10% Discount on Hotel Bookings",
+		"type": "Web_Image",
+		"imageUrl": "https://backoffice.tourwizonline.com/MarketingImages/18907/280620210806211434312Web_ImageHotel.png",
+		"htmlContent": "",
+		"rowCount": 1
+	},
+	{
+		"advetiseID": 7,
+		"detailsUrl": "/partner-offers",
+		"advertiseName": "Flight Offer",
+		"advertiseDescription": "Instant Discount upto 10% on Flight Booking",
+		"type": "Web_Image",
+		"imageUrl": "https://backoffice.tourwizonline.com/MarketingImages/18907/280420210804312490791Web_ImageFlights.png",
+		"htmlContent": "",
+		"rowCount": 2
+	},
+	{
+		"advetiseID": 6,
+		"detailsUrl": "/partner-offers",
+		"advertiseName": "Package Offer",
+		"advertiseDescription": "Get 10% Discount on Package Bookings",
+		"type": "Web_Image",
+		"imageUrl": "https://backoffice.tourwizonline.com/MarketingImages/18907/280320210803433414060Web_ImagePackage.png",
+		"htmlContent": "",
+		"rowCount": 3
+	},
+	{
+		"advetiseID": 5,
+		"detailsUrl": "/Static-Deals",
+		"advertiseName": "Transfer Offer",
+		"advertiseDescription": "Get 20% Discount  on Transfer Bookings",
+		"type": "Web_Image",
+		"imageUrl": "https://backoffice.tourwizonline.com/MarketingImages/18907/280620210806467832489Web_Imagetransfer.png",
+		"htmlContent": "",
+		"rowCount": 4
+	},
+	{
+		"advetiseID": 4,
+		"detailsUrl": "/partner-offers",
+		"advertiseName": "Excursion Offer ",
+		"advertiseDescription": "Instant Discount upto 10% on Excursion Booking",
+		"type": "Web_Image",
+		"imageUrl": "https://backoffice.tourwizonline.com/MarketingImages/18907/280520210805260941446Web_ImageActivity.png",
+		"htmlContent": "",
+		"rowCount": 5
+	},
+	{
+		"advetiseID": 2,
+		"detailsUrl": "/partner-offers",
+		"advertiseName": "Sightseeing Offer",
+		"advertiseDescription": "Get Flat 50% off on Sightseeing Booking",
+		"type": "Web_Image",
+		"imageUrl": "https://backoffice.tourwizonline.com/MarketingImages/18907/280220210802404338446Web_ImageSight Seeing.png",
+		"htmlContent": "",
+		"rowCount": 6
+	}
+]

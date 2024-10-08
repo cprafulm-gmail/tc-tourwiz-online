@@ -1,0 +1,12 @@
+{
+  "apiUrl": "https://dxcore.mytriponline.tech/",
+  "paymentInitUrl": "https://dxcore.mytriponline.tech/v1/pg/init/",
+  "paymentStatusUrl": "https://dxcore.mytriponline.tech/v1/pg/transaction/status/",
+  "webUrl": "http://localhost:3000",
+  "token": "3e7ae250275832589ace1790e4bec5a4772180fe3b5a2c54d18a87e1eb94566a",
+  "GoogleMapKey": "AIzaSyB-jWpAxpZA7EgI8BYsvgKQ9TqhUeqNGhk",
+  "GoogleCaptchSiteKey": "6LehX-IUAAAAAIzVr_XZYzBUeAaWOCBKxOLWv6Mv",
+  "sentryDsn": "",
+  "isAuthW": true,
+  "codebaseType": "tourwiz-customer"
+}

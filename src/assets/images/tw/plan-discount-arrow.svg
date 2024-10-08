@@ -1,0 +1,8 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 25" width="34" height="25">
+	<title>Shape 8</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #f18247 } 
+	</style>
+	<path id="Shape 8" class="shp0" d="M0 25C0 25 0.26 12.16 11 7C13.23 5.93 17.59 4.11 21.32 4.01C25.5 3.9 28.74 4.49 31 6L30 9C30 9 6.49 -0.51 0 25ZM28 13L28 0L34 7L28 13Z" />
+</svg>
