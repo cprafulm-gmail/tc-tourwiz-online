@@ -22,7 +22,7 @@ jobs:
           
       # Install dependencies with --legacy-peer-deps
       - name: Install Dependencies
-  run: npm install --force
+        run: npm install --force
 
       - name: Build And Deploy
         id: builddeploy
