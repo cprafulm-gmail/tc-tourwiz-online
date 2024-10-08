@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import { apiRequester } from "../services/requester";
 import { Trans } from "../helpers/translate";
-import FacebookLogin from "react-facebook-login";
 import GoogleLogin from "react-google-login";
 import IntlTelInput from "react-intl-tel-input";
 import "react-intl-tel-input/dist/main.css";
@@ -434,18 +433,6 @@ class Login extends Component {
                     (x) => x.name === "facebook"
                   ) !== undefined && (
                     <div className="form-group col-lg-6">
-                      <FacebookLogin
-                        cssClass="btn w-100 btn-facebook"
-                        appId={
-                          Global.getEnvironmetKeyValue("oAuthProviderInfo").find(
-                            (x) => x.name === "facebook"
-                          ).appID
-                        } //APP ID
-                        fields="name,email,picture,birthday,gender,address,first_name,last_name"
-                        callback={this.responseFacebook}
-                        onFailure={this.responseFacebook}
-                        textButton="Login with Facebook"
-                      />
                     </div>
                   )}
                 {Global.getEnvironmetKeyValue("oAuthProviderInfo").find(

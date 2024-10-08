@@ -4,9 +4,8 @@ import ReconciliationDetailFilters from "./reconciliationdetail-filters";
 import Pagination from "./../../components/booking-management/booking-pagination";
 import TableLoading from "../loading/table-loading";
 import Datecomp from "./../../helpers/date";
-import PdfIcon from "../../assets/images/reports/pdf.png"
-import PrintIcon from "../../assets/images/reports/print.png"
-import HtmlParser from "react-html-parser";
+import PdfIcon from "../../assets/images/reports/pdf.png";
+import PrintIcon from "../../assets/images/reports/print.png";
 import Amount from "./../../helpers/amount";
 import AuthorizeComponent, { AuthorizeComponentCheck } from "../../components/common/authorize-component";
 import ModelPopupAuthorize from "../../helpers/modelforauthorize";

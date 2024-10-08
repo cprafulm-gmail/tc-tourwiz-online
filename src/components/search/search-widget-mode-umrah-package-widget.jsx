@@ -12,7 +12,6 @@ import * as DropdownList from "../../helpers/dropdown-list";
 import SVGIcon from "../../helpers/svg-icon";
 import QuotationAddOffline from "../quotation/quotation-add-offline";
 import ComingSoon from "../../helpers/coming-soon";
-import { convertNodeToElement } from "react-html-parser";
 import GroundServiceAdditionalServiceWidget from "./groundservice-additionalsearvice-widget";
 import moment from "moment";
 

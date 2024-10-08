@@ -1,8 +1,6 @@
 import React, { Component } from "react";
 import { apiRequester } from "../services/requester";
 import { Trans } from "../helpers/translate";
-import FacebookLogin from "react-facebook-login";
-import GoogleLogin from "react-google-login";
 import IntlTelInput from "react-intl-tel-input";
 import "react-intl-tel-input/dist/main.css";
 import * as Global from "../helpers/global";
